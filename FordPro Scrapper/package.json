@@ -1,0 +1,16 @@
+{
+  "name": "fordpro-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fordpro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^3.1.1",
+    "puppeteer": "^22.7.1"
+  }
+}
